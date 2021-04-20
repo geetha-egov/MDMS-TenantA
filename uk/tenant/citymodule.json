@@ -1,0 +1,203 @@
+{
+  "tenantId": "in.uk",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": true,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.phagwara"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "active": true,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "in.uk.dehradun"
+        },
+	{
+          "code": "pb.mohali"
+        },
+        {
+          "code": "pb.nayagaon"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }, 
+        {
+          "code": "pb.derabassi"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }
+      ]
+    },
+   {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "in.uk.dehradun"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.uk.dehradun"
+        },
+	      {
+          "code": "pb.jalandhar"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar",
+	  "name":"Jalandhar"
+        },
+        {
+          "code": "pb.phagwara",
+          "name": "Phagwara"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar",
+	        "name": "Jalandhar"
+        },
+        {
+          "code": "pb.phagwara",
+          "name": "Phagwara"
+        },
+        {
+          "code": "in.uk.dehradun",
+          "name": "Amritsar"
+        }
+      ]
+    },
+    {
+      "module": "CASE_MANAGEMENT",
+      "code": "CASE_MANAGEMENT",
+      "active": false,
+      "tenants": [
+        {
+          "code": "pb.jalandhar",
+          "name": "Jalandhar"
+        },
+        {
+          "code": "in.uk.dehradun",
+          "name": "Amritsar"
+        },
+        {
+          "code": "pb.testing",
+          "name": "Testing"
+        }
+      ]
+    }
+  ]
+}

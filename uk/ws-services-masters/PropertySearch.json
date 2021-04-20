@@ -1,0 +1,10 @@
+{
+  "tenantId": "in.uk",
+  "moduleName": "ws-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}

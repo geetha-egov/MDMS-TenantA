@@ -1,0 +1,9 @@
+{
+  "tenantId": "in.uk",
+  "moduleName": "TradeLicense",
+  "TradeRenewal": [
+    {
+      "renewalPeriod" : 7889400000
+    }
+   ]
+}
