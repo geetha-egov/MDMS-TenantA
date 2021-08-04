@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.uk",
+  "tenantId": "in.statea",
   "moduleName": "common-masters",
   "CronJobAPIConfig": [
     {
