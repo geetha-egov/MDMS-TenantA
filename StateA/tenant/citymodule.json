@@ -8,10 +8,10 @@
       "active": true,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant2"
         }
       ]
     },
@@ -21,13 +21,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.phagwara"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -37,13 +37,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.nawanshahr"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -53,13 +53,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.nawanshahr"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -69,19 +69,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.nawanshahr"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun"
-        },
-	{
-          "code": "pb.mohali"
-        },
-        {
-          "code": "pb.nayagaon"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -90,17 +84,14 @@
       "code": "TL",
       "active": false,
       "tenants": [
-        {
-          "code": "pb.jalandhar"
+         {
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.nawanshahr"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun"
-        }, 
-        {
-          "code": "pb.derabassi"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -110,13 +101,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.nawanshahr"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -126,10 +117,10 @@
       "active": false,
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant2"
         }
       ]
     },
@@ -139,10 +130,10 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.uk.dehradun"
+          "code": "in.statea.tenant1"
         },
-	      {
-          "code": "pb.jalandhar"
+        {
+          "code": "in.statea.tenant2"
         }
       ]
     },
@@ -152,12 +143,10 @@
       "active": false,
       "tenants": [
         {
-          "code": "pb.jalandhar",
-	  "name":"Jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.phagwara",
-          "name": "Phagwara"
+          "code": "in.statea.tenant2"
         }
       ]
     },
@@ -167,16 +156,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "pb.jalandhar",
-	        "name": "Jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "pb.phagwara",
-          "name": "Phagwara"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "in.uk.dehradun",
-          "name": "Amritsar"
+          "code": "in.statea.tenant3"
         }
       ]
     },
@@ -186,16 +172,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "pb.jalandhar",
-          "name": "Jalandhar"
+          "code": "in.statea.tenant1"
         },
         {
-          "code": "in.uk.dehradun",
-          "name": "Amritsar"
+          "code": "in.statea.tenant2"
         },
         {
-          "code": "pb.testing",
-          "name": "Testing"
+          "code": "in.statea.tenant3"
         }
       ]
     }
