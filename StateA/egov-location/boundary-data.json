@@ -10,8 +10,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Amritsar",
-        "localname": "Amritsar",
+        "name": "tenant1",
+        "localname": "tenant1",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -634,8 +634,8 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Amritsar",
-        "localname": "Amritsar",
+        "name": "tenant1",
+        "localname": "tenant1",
         "longitude": null,
         "latitude": null,
         "label": "City",
