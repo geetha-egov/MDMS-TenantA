@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.statea.amritsar",
+        "code": "in.statea.tenant1",
         "children":[
           {
             "id": 2,
@@ -639,7 +639,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.statea.amritsar",
+        "code": "in.statea.tenant1",
         "children":[
           {
             "id": 2,
