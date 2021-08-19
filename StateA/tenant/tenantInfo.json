@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "in.statea.tenant1",
-      "districtCode": "Tenant1",
+      "code": "in.statea.tenantx",
+      "districtCode": "tenantx",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "in.statea.tenant1",
-      "districtCode": "Tenant2",
+      "code": "in.statea.tenantx",
+      "districtCode": "tenanty",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "in.statea.tenant3",
-      "districtCode": "Tenant3",
+      "code": "in.statea.tenantz",
+      "districtCode": "tenantz",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",

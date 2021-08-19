@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "tenant1",
-        "localname": "tenant1",
+        "name": "tenantx",
+        "localname": "tenantx",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.statea.tenant1",
+        "code": "in.statea.tenantx",
         "children":[
           {
             "id": 2,
@@ -634,12 +634,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "tenant1",
-        "localname": "tenant1",
+        "name": "tenantx",
+        "localname": "tenantx",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.statea.tenant1",
+        "code": "in.statea.tenantx",
         "children":[
           {
             "id": 2,

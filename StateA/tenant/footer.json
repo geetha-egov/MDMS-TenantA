@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer":[
       {
-       "code": "in.statea.tenant1",
+       "code": "in.statea.tenantx",
        "service": "PT",
        "receiptFooterContent": [
           {
@@ -61,7 +61,7 @@
          
       },
       {
-        "code": "in.statea.tenant1",
+        "code": "in.statea.tenantx",
         "service": "PT.MUTATION",
         "receiptFooterContent": [
            {
@@ -115,7 +115,7 @@
           
        },
       {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "TL",
           "receiptFooterContent": [
              {
@@ -165,7 +165,7 @@
             
          },
          {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "FIRENOC",
           "receiptFooterContent": [
              {
@@ -211,7 +211,7 @@
             
          },
          {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "BPA.NC_APP_FEE",
           "receiptFooterContent": [
              {
@@ -261,7 +261,7 @@
             
          },
          {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "BPA.NC_SAN_FEE",
           "receiptFooterContent": [
              {
@@ -311,7 +311,7 @@
             
          },
          {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "BPA.LOW_RISK_PERMIT_FEE",
           "receiptFooterContent": [
              {
@@ -361,7 +361,7 @@
             
          },
         {
-            "code": "in.statea.tenant1",
+            "code": "in.statea.tenantx",
             "service": "BPA.NC_OC_APP_FEE",
             "receiptFooterContent": [
                 {
@@ -409,7 +409,7 @@
             ]
         },
         {
-            "code": "in.statea.tenant1",
+            "code": "in.statea.tenantx",
             "service": "BPA.NC_OC_SAN_FEE",
             "receiptFooterContent": [
                 {
@@ -457,7 +457,7 @@
             ]
         },
          {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "DEFAULT",
           "receiptFooterContent": [
              {
@@ -517,7 +517,7 @@
             
          },
          {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "BPAREG",
           "receiptFooterContent": [
              {
@@ -953,7 +953,7 @@
             ]
         },
         {
-          "code": "in.statea.tenant1",
+          "code": "in.statea.tenantx",
           "service": "FSM.TRIP_CHARGES",
           "receiptFooterContent": [
             {

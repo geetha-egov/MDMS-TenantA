@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Tenant1",
+        "name": "tenantx",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -28,7 +28,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "Tenant1-MC"
+        "ddrName": "tenantx-MC"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "pincode": [],
@@ -37,9 +37,9 @@
       "pdfContactDetails": "PB_CONTACT_DETAILS"
     },
     {
-      "code": "in.statea.Tenant1",
-      "name": "Tenant1",
-      "description": "Tenant1",
+      "code": "in.statea.tenantx",
+      "name": "tenantx",
+      "description": "tenantx",
       "logoId": "",
       "imageId": "",
       "domainUrl": "www.mcjalandhar.in",
@@ -62,7 +62,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "Tenant1-MC"
+        "ddrName": "tenantx-MC"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "pincode": [144001,144002,144003,144004,144005,144006,144007,144008,144009,144010],
@@ -71,9 +71,9 @@
       "pdfContactDetails": "PB_JALANDHAR_CONTACT_DETAILS"
     },
     {
-      "code": "in.statea.tenant2",
-      "name": "Tenant2",
-      "description": "tenant2",
+      "code": "in.statea.tenanty",
+      "name": "tenanty",
+      "description": "tenanty",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.phagwara/logo.png",
       "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.phagwara/logo.png",
       "domainUrl": "http://www.mcphagwara.com/index.php",
@@ -85,7 +85,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "tenant2",
+        "name": "tenanty",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -96,7 +96,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "807",
-        "ddrName": "tenant2-MC"
+        "ddrName": "tenanty-MC"
       },
       "address": "Town Hall, Phagwara, Punjab - 144401",
       "pincode": [144401,144402,144403],
@@ -105,8 +105,8 @@
       "pdfContactDetails": "PB_PHAGWARA_CONTACT_DETAILS"
     },
     {
-      "code": "in.statea.tenant3",
-      "name": "Tenant3",
+      "code": "in.statea.tenantz",
+      "name": "tenantz",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/in.uk.dehradun/logo.png",
       "imageId": "/pb-egov-assets/in.uk.dehradun/logo.png",
@@ -120,7 +120,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Tenant3",
+        "name": "tenantz",
         "localName": null,
         "districtCode": null,
         "districtName": null,
