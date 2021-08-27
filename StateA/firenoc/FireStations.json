@@ -14,7 +14,7 @@
     },
     {
       "code": "FS_JALANDHAR_01",
-      "baseTenantId": "pb.jalandhar",
+      "baseTenantId": "in.statea.tenantx",
       "active": true,
       "subDistrict": [
         "jalandhar1",

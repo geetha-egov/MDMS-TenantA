@@ -6,8 +6,8 @@
       "code": "in.statea",
       "name": "statea",
       "description": "statea",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.jalandhar/logo.png",
-      "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.jalandhar/logo.png",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/in.statea.tenantx/logo.png",
+      "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/in.statea.tenantx/logo.png",
       "domainUrl": "www.mcjalandhar.in",
       "type": "CITY",
       "twitterUrl": "https://twitter.com/search?q=%23jalandhar",
@@ -67,8 +67,8 @@
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "pincode": [144001,144002,144003,144004,144005,144006,144007,144008,144009,144010],
       "contactNumber": "0181-2227015",
-      "pdfHeader": "PB_JALANDHAR_PDF_HEADER",
-      "pdfContactDetails": "PB_JALANDHAR_CONTACT_DETAILS"
+      "pdfHeader": "in.statea.tenantx_PDF_HEADER",
+      "pdfContactDetails": "in.statea.tenantx_CONTACT_DETAILS"
     },
     {
       "code": "in.statea.tenanty",
