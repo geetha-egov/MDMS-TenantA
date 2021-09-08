@@ -579,8 +579,12 @@
       "format": "PB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
     },
     {
-      "format": "PG-PT-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]",
+      "format": "PB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
       "idname": "pt.propertyid"
+    },
+    {
+      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+      "idname": "pt.acknowledgementnumber"
     }
   ]
 }
