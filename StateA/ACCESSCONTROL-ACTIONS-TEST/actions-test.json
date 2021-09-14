@@ -11336,7 +11336,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "pt-mutation/propertySearch",
+      "navigationURL": "/digit-ui/employee/pt/inbox",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -12782,7 +12782,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicence/search",
+      "navigationURL": "/digit-ui/employee/tl/inbox",
       "path": "TradeLicense.Search",
       "leftIcon": "places:business-center"
     },
@@ -13897,7 +13897,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -13928,7 +13928,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "pt-mutation/propertySearch",
+      "navigationURL": "/digit-ui/employee/pt/inbox",
       "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
@@ -13960,7 +13960,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "tradelicence/search",
+      "navigationURL": "/digit-ui/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -13976,7 +13976,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -14235,7 +14235,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/search",
+      "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -14291,7 +14291,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax",
-      "navigationURL": "property-tax",
+      "navigationURL": "/digit-ui/citizen",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -14305,7 +14305,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicense-citizen/home",
+      "navigationURL": "/digit-ui/citizen/",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -14417,7 +14417,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "property-tax",
+      "navigationURL": "/digit-ui/citizen",
       "leftIcon": "custom:home-city-outline",
       "rightIcon": "",
       "queryParams": ""
@@ -14433,7 +14433,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "tradelicense-citizen/home",
+      "navigationURL": "/digit-ui/citizen/",
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
       "queryParams": ""
@@ -14745,7 +14745,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicence/search?action=showRequiredDocuments",
+      "navigationURL": "/digit-ui/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center",
       "isRequiredDocument": true
@@ -15779,7 +15779,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess And Search Properties",
-      "navigationURL": "pt-mutation/propertySearch",
+      "navigationURL": "/digit-ui/employee/pt/inbox",
       "quickAction": true,
       "leftIcon": "communication:business",
       "rightIcon": ""
@@ -15811,7 +15811,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "tradelicence/search",
+      "navigationURL": "/digit-ui/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -15826,7 +15826,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicence/search?action=showRequiredDocuments",
+      "navigationURL": "/digit-ui/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center",
       "isRequiredDocument": true
@@ -17739,7 +17739,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "navigationURL": "uc/newCollection",
+      "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "path": "",
       "leftIcon": "image:collections-bookmark"
     },
@@ -17976,7 +17976,7 @@
       "serviceCode": "UC",
       "code": "",
       "path": "",
-      "navigationURL": "uc/newCollection",
+      "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -17991,7 +17991,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/searchChallan",
+      "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "path": "",
       "leftIcon": "places:business-center"
     },
@@ -18016,7 +18016,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/search",
+      "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -18040,7 +18040,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/newCollection",
+      "navigationURL": "/digit-ui/employee/mcollect/new-application",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
