@@ -1,0 +1,11 @@
+{
+    "tenantId": "in.statea",
+    "moduleName": "DIGIT-UI",
+    "HelpText": [
+        {
+            "PT": {
+                "propertyIdFormat": "PB-PT-xxxx-xx-xx-xxxxxx"
+            }
+        }
+    ]
+}
