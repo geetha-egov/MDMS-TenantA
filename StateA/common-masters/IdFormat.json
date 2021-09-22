@@ -585,6 +585,22 @@
     {
       "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
       "idname": "pt.acknowledgementnumber"
+    },
+    {
+      "format": "PB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "idname": "tl.aplnumber"
+    },
+    {
+      "format": "PB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "idname": "tl.licensenumber"
+    },
+        {
+      "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "idname": "bpa.aplnumber"
+    },
+    {
+      "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "idname": "bpa.licensenumber"
     }
   ]
 }
