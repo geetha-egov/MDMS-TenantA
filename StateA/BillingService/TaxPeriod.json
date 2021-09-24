@@ -441,6 +441,14 @@
       "service": "FSM.TRIP_CHARGES",
       "code": "FSMTRIPCHARGE10YRS",
       "financialYear": "2020-2030"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2021",
+      "financialYear": "2021-22"
     }
   ]
 }
