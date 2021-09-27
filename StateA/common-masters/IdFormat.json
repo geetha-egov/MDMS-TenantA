@@ -601,6 +601,10 @@
     {
       "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
       "idname": "bpa.licensenumber"
+    },
+     {
+      "format": "TEST/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "collection.transactionno"
     }
   ]
 }
