@@ -1,4 +1,3 @@
-
 {
   "tenantId": "in.statea",
   "moduleName": "PropertyTax",
@@ -6,8 +5,9 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -64,8 +64,9 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -114,8 +115,9 @@
     {
       "code": "OWNER.REGISTRATIONPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -137,7 +139,7 @@
           }
         }
       },
-      "dropdownData":[
+      "dropdownData": [
         {
           "code": "OWNER.REGISTRATIONPROOF.SALEDEED",
           "active": true
@@ -184,8 +186,9 @@
     {
       "code": "OWNER.SPECIALCATEGORYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -195,11 +198,26 @@
           ],
           "jsonPath": "Properties[0].propertyDetails[0].owners",
           "onArray": true,
-          "arrayAttribute": "ownerType"
+          "arrayAttribute": "ownerType",
+          "formDataPath": [
+            "owners"
+          ],
+          "formArrayAttrPath": [
+            "ownerType",
+            "code"
+          ]
         },
         "dropdownFilter": {
           "parentArrayJsonPath": "Properties[0].propertyDetails[0].owners",
-          "parentJsonpath": "ownerType"
+          "parentJsonpath": "ownerType",
+          "onArray": true,
+          "formArrayAttrPath": [
+            "ownerType",
+            "code"
+          ],
+          "formDataPath": [
+            "owners"
+          ]
         },
         "enabledActions": {
           "assess": {
@@ -249,6 +267,13 @@
           "parentValue": [
             "WIDOW"
           ]
+        },
+        {
+          "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
+          "active": true,
+          "parentValue": [
+            "GENERAL"
+          ]
         }
       ],
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
@@ -256,12 +281,17 @@
     {
       "code": "OWNER.USAGEPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "dropdownFilter": {
-          "parentJsonpath": "Properties[0].propertyDetails[0].usageCategoryMinor"
+          "parentJsonpath": "Properties[0].propertyDetails[0].usageCategoryMinor",
+          "formDataPath": [
+            "usageCategoryMinor",
+            "code"
+          ]
         },
         "enabledActions": {
           "assess": {
@@ -309,12 +339,13 @@
         }
       ],
       "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
-    }, 
+    },
     {
       "code": "OWNER.CONSTRUCTIONPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -322,6 +353,10 @@
             "VACANT"
           ],
           "jsonPath": "Properties[0].propertyDetails[0].propertyType",
+          "formDataPath": [
+            "propertyType",
+            "code"
+          ],
           "onArray": false
         },
         "enabledActions": {
@@ -356,6 +391,7 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
+      "digit-citizen": true,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -365,7 +401,13 @@
           ],
           "jsonPath": "Properties[0].propertyDetails[0].units",
           "onArray": true,
-          "arrayAttribute": "occupancyType"
+          "arrayAttribute": "occupancyType",
+          "formDataPath": [
+            "units"
+          ],
+          "formArrayAttrPath": [
+            "occupancyType"
+          ]
         },
         "enabledActions": {
           "assess": {
