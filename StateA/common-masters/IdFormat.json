@@ -605,6 +605,10 @@
      {
       "format": "TEST/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "collection.transactionno"
+    },
+    {
+            "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "tl.receipt.id"
     }
   ]
 }
