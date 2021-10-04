@@ -464,7 +464,7 @@
     },
     {
       "idname": "egov.idgen.bpa.applicationNum",
-      "format": "SA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
+      "format": "SA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN_SA]"
     },
     {
       "format": "SA_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
@@ -503,31 +503,31 @@
       "idname": "sewerageservice.application.id"
     },
     {
-      "format": "PB-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "format": "SA-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.mutation.receipt.id"
     },
     {
-      "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN_SA]",
       "idname": "egov.idgen.bpa.englicensenumber"
     },
     {
-      "format": "BR/STR/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "format": "BR/STR/[cy:yyyy]/[SEQ_EG_PT_LN_SA]",
       "idname": "egov.idgen.bpa.strlicensenumber"
     },
     {
-      "format": "BR/TP/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "format": "BR/TP/[cy:yyyy]/[SEQ_EG_PT_LN_SA]",
       "idname": "egov.idgen.bpa.tplicensenumber"
     },
     {
-      "format": "BR/SUP/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "format": "BR/SUP/[cy:yyyy]/[SEQ_EG_PT_LN_SA]",
       "idname": "egov.idgen.bpa.suplicensenumber"
     },
     {
-      "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN_SA]",
       "idname": "egov.idgen.bpa.arlicensenumber"
     },
     {
-      "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN_SA]",
       "idname": "egov.idgen.bpa.bdlicensenumber"
     },
     {
@@ -551,11 +551,11 @@
       "idname": "bpa.nc_oc_san_fee.receipt.id"
     },
     {
-      "format": "SA-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
+      "format": "SA-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN_SA]",
       "idname": "noc.application.number"
     },
     {
-      "format": "SA-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+      "format": "SA-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID_SA]",
       "idname": "pgr.servicerequestid"
     },
     {
@@ -576,30 +576,30 @@
     },
     {
       "idname": "echallan.aplnumber",
-      "format": "SA-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
+      "format": "SA-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL_SA]"
     },
     {
-      "format": "SA-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+      "format": "SA-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID_SA]",
       "idname": "pt.propertyid"
     },
     {
-      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+      "format": "SA-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK_SA]",
       "idname": "pt.acknowledgementnumber"
     },
     {
-      "format": "SA-TL-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "format": "SA-TL-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL_SA]",
       "idname": "tl.aplnumber"
     },
     {
-      "format": "SA-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "format": "SA-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN_SA]",
       "idname": "tl.licensenumber"
     },
         {
-      "format": "SA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "format": "SA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL_SA]",
       "idname": "bpa.aplnumber"
     },
     {
-      "format": "SA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "format": "SA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN_SA]",
       "idname": "bpa.licensenumber"
     },
      {
