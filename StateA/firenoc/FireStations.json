@@ -3,52 +3,27 @@
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_AMRITSAR_01",
-      "baseTenantId": "in.uk.dehradun",
-      "active": true,
-      "subDistrict": [
-        "Amritsar",
-        "Baba bakala",
-        "Ajnala"
-      ]
-    },
-    {
-      "code": "FS_JALANDHAR_01",
+      "code": "FS_STATEA_TENANTX",
       "baseTenantId": "in.statea.tenantx",
       "active": true,
       "subDistrict": [
-        "jalandhar1",
-        "jalandhar2"
+        "TenantX"
       ]
     },
     {
-      "code": "pb.sangrur",
-      "baseTenantId": "pb.sangrur",
+      "code": "FS_STATEA_TENANTY",
+      "baseTenantId": "in.statea.tenanty",
       "active": true,
       "subDistrict": [
-        "Sangrur",
-        "Moonak",
-        "Bhawanigarh"
+        "TenantY"
       ]
     },
     {
-      "code": "pb.malerkotla",
-      "baseTenantId": "pb.sangrur",
+      "code": "FS_STATEA_TENANTZ",
+      "baseTenantId": "in.statea.tenantz",
       "active": true,
       "subDistrict": [
-        "Malerkotla",
-        "Ahmedgarh",
-        "Amargarh"
-      ]
-    },
-    {
-      "code": "pb.sunam",
-      "baseTenantId": "pb.sangrur",
-      "active": true,
-      "subDistrict": [
-        "Sunam",
-        "Lehragaga",
-        "Dirba"
+        "TenantZ"
       ]
     }
   ]
