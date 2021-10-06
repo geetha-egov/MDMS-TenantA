@@ -607,8 +607,16 @@
       "idname": "collection.transactionno"
     },
     {
-            "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "tl.receipt.id"
+      "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "tl.receipt.id"
+    },
+    {
+      "format": "SA-FN-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL_SA]",
+      "idname": "fn.fireNOCDetails.applicationNumber"
+    },
+    {
+      "format": "SA-FN-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN_SA]",
+      "idname": "fn.fireNOCNumber"
     }
   ]
 }
