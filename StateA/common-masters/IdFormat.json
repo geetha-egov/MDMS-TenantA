@@ -603,7 +603,7 @@
       "idname": "bpa.licensenumber"
     },
      {
-      "format": "SA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON_TRANSACTION]",
+      "format": "SA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON_TRANSACTION_SA]",
       "idname": "collection.transactionno"
     },
     {
