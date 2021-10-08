@@ -31,7 +31,7 @@
       "idname": "watercharges.nonmetered.receipt.id"
     },
     {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "FN/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "firenoc.receipt.id"
     },
     {
@@ -603,7 +603,7 @@
       "idname": "bpa.licensenumber"
     },
      {
-      "format": "TEST/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "SA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON_TRANSACTION]",
       "idname": "collection.transactionno"
     },
     {
