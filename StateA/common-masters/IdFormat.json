@@ -455,11 +455,11 @@
       "idname": "nks.rain_harvesting_charges.receipt.id"
     },
     {
-      "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
+      "format": "SA-WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
       "idname": "waterservice.connection.id"
     },
     {
-      "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_CON_[TENANT_ID]]",
+      "format": "SA-SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_CON_[TENANT_ID]]",
       "idname": "sewerageservice.connection.id"
     },
     {
@@ -495,11 +495,11 @@
       "idname": "sw.receipt.id"
     },
     {
-      "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
+      "format": "SA-WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
       "idname": "waterservice.application.id"
     },
     {
-      "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_APP_[TENANT_ID]]",
+      "format": "SA-SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_APP_[TENANT_ID]]",
       "idname": "sewerageservice.application.id"
     },
     {
