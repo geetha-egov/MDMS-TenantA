@@ -5343,18 +5343,6 @@
                     "children": []
                   },
                   {
-                    "id": "0f9d04e7-9318-498c-8da8-19440d61251b",
-                    "boundaryNum": 1,
-                    "name": "Ajit Nagar",
-                    "localname": "Ajit Nagar",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC833",
-                    "area": "Area3",
-                    "children": []
-                  },
-                  {
                     "id": "5f54f562-8334-4fab-b57f-0c04c5270ee9",
                     "boundaryNum": 1,
                     "name": "Balmiki Mohalla",
@@ -5459,18 +5447,6 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC841",
-                    "area": "Area3",
-                    "children": []
-                  },
-                  {
-                    "id": "ff1a6bee-dff9-4b19-8524-7fd01391424b",
-                    "boundaryNum": 1,
-                    "name": "Arjun Nagar",
-                    "localname": "Arjun Nagar",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC842",
                     "area": "Area3",
                     "children": []
                   },
@@ -19702,18 +19678,6 @@
                     "children": []
                   },
                   {
-                    "id": "0f9d04e7-9318-498c-8da8-19440d61251b",
-                    "boundaryNum": 1,
-                    "name": "Ajit Nagar",
-                    "localname": "Ajit Nagar",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC833",
-                    "area": "",
-                    "children": []
-                  },
-                  {
                     "id": "5f54f562-8334-4fab-b57f-0c04c5270ee9",
                     "boundaryNum": 1,
                     "name": "Balmiki Mohalla",
@@ -19818,18 +19782,6 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC841",
-                    "area": "",
-                    "children": []
-                  },
-                  {
-                    "id": "ff1a6bee-dff9-4b19-8524-7fd01391424b",
-                    "boundaryNum": 1,
-                    "name": "Arjun Nagar",
-                    "localname": "Arjun Nagar",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "JLC842",
                     "area": "",
                     "children": []
                   },

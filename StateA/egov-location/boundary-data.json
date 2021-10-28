@@ -5450,18 +5450,6 @@
                                         "children": []
                                     },
                                     {
-                                        "id": "ff1a6bee-dff9-4b19-8524-7fd01391424b",
-                                        "boundaryNum": 1,
-                                        "name": "Arjun Nagar",
-                                        "localname": "Arjun Nagar",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "JLC842",
-                                        "area": "Area3",
-                                        "children": []
-                                    },
-                                    {
                                         "id": "29ee27ed-43cc-45b5-b0a5-0e985159880d",
                                         "boundaryNum": 1,
                                         "name": "Jaimal Nagar",
@@ -19792,18 +19780,6 @@
                                         "latitude": null,
                                         "label": "Locality",
                                         "code": "JLC841",
-                                        "area": "",
-                                        "children": []
-                                    },
-                                    {
-                                        "id": "ff1a6bee-dff9-4b19-8524-7fd01391424b",
-                                        "boundaryNum": 1,
-                                        "name": "Arjun Nagar",
-                                        "localname": "Arjun Nagar",
-                                        "longitude": null,
-                                        "latitude": null,
-                                        "label": "Locality",
-                                        "code": "JLC842",
                                         "area": "",
                                         "children": []
                                     },
