@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": { 
-        "name": "tenantx",
+        "name": "StateA",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -28,7 +28,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "tenantx-MC"
+        "ddrName": "StateA-MC"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "pincode": [],
