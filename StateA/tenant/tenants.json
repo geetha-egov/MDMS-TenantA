@@ -101,8 +101,8 @@
       "address": "Town Hall, Tenant Y, State A - 144401",
       "pincode": [144401,144402,144403],
       "contactNumber": "01824-260426",
-      "pdfHeader": "PB_PHAGWARA_PDF_HEADER",
-      "pdfContactDetails": "PB_PHAGWARA_CONTACT_DETAILS"
+      "pdfHeader": "in.statea.tenanty_PDF_HEADER",
+      "pdfContactDetails": "in.statea.tenanty_CONTACT_DETAILS"
     },
     {
       "code": "in.statea.tenantz",
@@ -131,14 +131,14 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "107",
-        "ddrName": "Amritsar-MC"
+        "ddrName": "tenantz-MC"
       },
       "address": "Municipal Corporation Amritsar, Town Hall, Amritsar,Punjab",
       "pincode": [143001,143002,143003,143004,143005,143006,143007,143008,143009,143010],
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300",
-      "pdfHeader": "PB_AMRITSAR_PDF_HEADER",
-      "pdfContactDetails": "PB_AMRITSAR_CONTACT_DETAILS"
+      "pdfHeader": "in.statea.tenantz_PDF_HEADER",
+      "pdfContactDetails": "in.statea.tenantz_CONTACT_DETAILS"
     }
   ]
 }
