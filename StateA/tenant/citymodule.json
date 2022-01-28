@@ -178,6 +178,22 @@
           "code": "in.statea.tenanty"
         }
       ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.statea.tenantx"
+        },
+        {
+          "code": "in.statea.tenanty"
+        },
+        {
+          "code": "in.statea.tenantz"
+        }
+      ]
     }
   ]
 }
