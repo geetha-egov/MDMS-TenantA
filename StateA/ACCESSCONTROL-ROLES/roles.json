@@ -1,7 +1,7 @@
 {
   "tenantId": "in.statea",
   "moduleName": "ACCESSCONTROL-ROLES",
-  "roles": [
+  "Roles": [
     {
       "code": "CITIZEN",
       "name": "Citizen",
