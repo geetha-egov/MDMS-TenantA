@@ -112,6 +112,22 @@
       ]
     },
     {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "tenants": [
+         {
+          "code": "in.statea.tenantx"
+        },
+        {
+          "code": "in.statea.tenanty"
+        },
+        {
+          "code": "in.statea.tenantz"
+        }
+      ]
+    },
+    {
       "module": "FIRENOC",
       "code": "FIRENOC",
       "active": false,
