@@ -210,6 +210,22 @@
           "code": "in.statea.tenanty"
         }
       ]
+    },
+     {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.statea.tenantx"
+        },
+        {
+          "code": "in.statea.tenanty"
+        },
+        {
+          "code": "in.statea.tenantz"
+        }
+      ]
     }
   ]
 }
