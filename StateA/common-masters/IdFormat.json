@@ -595,7 +595,7 @@
       "idname": "tl.licensenumber"
     },
         {
-      "format": "SA-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL_SA]",
+      "format": "SA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
       "idname": "bpa.aplnumber"
     },
     {
@@ -617,6 +617,14 @@
     {
       "format": "SA-FN-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN_SA]",
       "idname": "fn.fireNOCNumber"
+    },
+    {
+      "format": "SA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+      "idname": "bpa.low_risk_permit_fee.receipt.id"
+    },
+    {
+      "format": "SA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+      "idname": "bpa.permitnumber"
     }
   ]
 }
