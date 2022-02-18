@@ -22950,6 +22950,924 @@
       "actionid": 2305,
       "actioncode": "",
       "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2174,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2175,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2176,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2169,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2170,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2171,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2157,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+        {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2158,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2159,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2160,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2161,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2162,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2163,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2164,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2165,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2166,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2167,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "COLL_REP_VIEW",
+      "actionid": 2168,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2174,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2175,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2176,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2169,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2170,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2171,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2157,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+        {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2158,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2159,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2163,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2164,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2165,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2166,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2167,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_COLLECTION_EMP",
+      "actionid": 2168,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2174,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2175,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2176,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2169,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2170,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2171,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2157,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+        {
+      "rolecode": "GRO",
+      "actionid": 2158,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2159,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2160,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2161,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2162,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2163,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2164,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2165,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2166,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2167,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 2168,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2174,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2175,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2176,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2169,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2170,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2171,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2157,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+        {
+      "rolecode": "PGR_LME",
+      "actionid": 2158,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2159,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2160,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2161,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2162,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2163,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2164,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2165,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2166,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2167,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 2168,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2174,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2175,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2176,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2169,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2170,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2171,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2157,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+        {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2158,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2159,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2160,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2161,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2162,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2163,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2164,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2165,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2166,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2167,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2168,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2174,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2175,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2176,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2169,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2170,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2171,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2157,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+        {
+      "rolecode": "PT_CEMP",
+      "actionid": 2158,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2159,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2160,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2161,
+      "actioncode": "",
+      "tenantId": "in.statea"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2162,
+      "actioncode": "",
+      "tenantId": "in.statea"
     }
   ]
 }
