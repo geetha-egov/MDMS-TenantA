@@ -274,6 +274,38 @@
           "code": "in.statea.tenantz"
         }
       ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.statea.tenantx"
+        },
+        {
+          "code": "in.statea.tenanty"
+        },
+        {
+          "code": "in.statea.tenantz"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.statea.tenantx"
+        },
+        {
+          "code": "in.statea.tenanty"
+        },
+        {
+          "code": "in.statea.tenantz"
+        }
+      ]
     }
   ]
 }
