@@ -170,6 +170,19 @@
       ]
     },
     {
+      "module": "OBPS",
+      "code": "OBPS",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.statea.tenantx"
+        },
+	      {
+          "code": "in.statea.tenanty"
+        }
+      ]
+    },
+    {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
